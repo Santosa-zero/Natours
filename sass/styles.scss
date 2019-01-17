@@ -15,11 +15,15 @@
 @import 'components/card';
 @import 'components/composition';
 @import 'components/feature-box';
+@import 'components/form';
 @import 'components/story';
+@import 'components/popup';
 
 // layout 
 @import 'layout/grid';
 @import 'layout/header';
+@import 'layout/footer';
+@import 'layout/navigation';
 
 // pages
 @import 'pages/home';
